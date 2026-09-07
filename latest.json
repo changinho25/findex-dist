@@ -1,0 +1,9 @@
+{
+  "version": "1.11.3",
+  "released": "2026-09-04",
+  "url": "https://github.com/changinho25/findex-dist/releases/download/v1.11.3/Findex-v1.11.3-win64.zip",
+  "size": 88640125,
+  "sha256": "7ba548389b2617dd22fd154aa27865777a7d0131a8d627ff96b142b4553f48f3",
+  "notes": "ruff 정적 검사 도입 + 속성창 NameError·watcher 제외 대소문자 버그픽스",
+  "notes_url": "https://github.com/changinho25/findex-dist/releases/tag/v1.11.3"
+}
