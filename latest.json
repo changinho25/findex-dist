@@ -1,9 +1,9 @@
 {
-  "version": "1.12.0",
-  "released": "2026-09-07",
-  "url": "https://github.com/changinho25/findex-dist/releases/download/v1.12.0/Findex-v1.12.0-win64.zip",
-  "size": 90607795,
-  "sha256": "a3155f30c543653bc975dbf163dd4142b73995657d6617477155dfacc47eb94c",
-  "notes": "로컬 드라이브 인덱싱이 안 되던 버그 수정 + 새 버전 자동 확인 기능 추가",
-  "notes_url": "https://github.com/changinho25/findex-dist/releases/tag/v1.12.0"
+  "version": "1.12.1",
+  "released": "2026-09-08",
+  "url": "https://github.com/changinho25/findex-dist/releases/download/v1.12.1/Findex-v1.12.1-win64.zip",
+  "size": 87804738,
+  "sha256": "7f9577b9916b31877271800db4fe6c8864b1fb90123bc601c362f57622b04481",
+  "notes": "시작 속도 개선(창 뜨기 전 동기 COUNT 제거) + 인덱스 DB 자동 압축",
+  "notes_url": "https://github.com/changinho25/findex-dist/releases/tag/v1.12.1"
 }
