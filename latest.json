@@ -1,9 +1,9 @@
 {
-  "version": "1.13.0",
-  "released": "2026-09-08",
-  "url": "https://github.com/changinho25/findex-dist/releases/download/v1.13.0/Findex-v1.13.0-win64.zip",
-  "size": 87827088,
-  "sha256": "b5fda415de9d61257b0eeeb0535e8e5620729403636221b4dd3988e496924744",
-  "notes": "자동 업데이트 — 앱 안에서 내려받아 검증하고 재시작 한 번으로 교체",
-  "notes_url": "https://github.com/changinho25/findex-dist/releases/tag/v1.13.0"
+  "version": "1.14.0",
+  "released": "2026-09-11",
+  "url": "https://github.com/changinho25/findex-dist/releases/download/v1.14.0/Findex-v1.14.0-win64.zip",
+  "size": 85883088,
+  "sha256": "69c7527061b13ac870b3227f7351357200041e0f18d42ad5931ca932d3dff0fc",
+  "notes": "테마 정비(다크 화살표·라이트 Fusion) + 설정창 5섹션 재편 + 처음 사용 안내 + 한국어 버튼",
+  "notes_url": "https://github.com/changinho25/findex-dist/releases/tag/v1.14.0"
 }
