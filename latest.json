@@ -1,9 +1,9 @@
 {
-  "version": "1.14.1",
-  "released": "2026-11-02",
-  "url": "https://github.com/changinho25/findex-dist/releases/download/v1.14.1/Findex-v1.14.1-win64.zip",
-  "size": 85918832,
-  "sha256": "2ad77d4316b50a9aa7dde2ee20f64ea97c2cd64a53a4747a4a3c92f54b74ce18",
-  "notes": "인덱싱 메모리 최고치 1.8 GB → 0.47 GB + 인덱싱 안정성 개선 + 실시간 감시 반영 유실 방지",
-  "notes_url": "https://github.com/changinho25/findex-dist/releases/tag/v1.14.1"
+  "version": "1.15.0",
+  "released": "2026-11-06",
+  "url": "https://github.com/changinho25/findex-dist/releases/download/v1.15.0/Findex-v1.15.0-win64.zip",
+  "size": 85942099,
+  "sha256": "16755d1f500ceaa9b2c47b451af06381c3a2c69a13bcc0554d1366a63c6efd76",
+  "notes": "초성 검색(ㅂㄱㅅ → 보고서, 런처 포함) + 검색 문법(ext: type: dm: size: parent: ! |) + 검색창 안내 문구 정리",
+  "notes_url": "https://github.com/changinho25/findex-dist/releases/tag/v1.15.0"
 }
