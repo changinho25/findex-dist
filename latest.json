@@ -1,9 +1,9 @@
 {
-  "version": "1.15.1",
+  "version": "1.15.2",
   "released": "2026-11-06",
-  "url": "https://github.com/changinho25/findex-dist/releases/download/v1.15.1/Findex-v1.15.1-win64.zip",
-  "size": 85947474,
-  "sha256": "7e1bdc29681e8e703a4a13f7c25a9e840db5146b1d291f2fa56882cd34268507",
-  "notes": "인덱스 DB 용량 정리(측정 PC 1.96 GB → 0.51 GB) + 관리자 실행 시 시작 인덱싱 단축(USN 저널)",
-  "notes_url": "https://github.com/changinho25/findex-dist/releases/tag/v1.15.1"
+  "url": "https://github.com/changinho25/findex-dist/releases/download/v1.15.2/Findex-v1.15.2-win64.zip",
+  "size": 85947640,
+  "sha256": "3cdab155cccc033ac96b1aba322cbd8a823e887b7006b512b6b04b5f5aba01f8",
+  "notes": "관리자 권한 실행 시 OneDrive 파일 누락·휴지통 포함 수정 + '관리자 권한으로 재시작' 무반응 수정",
+  "notes_url": "https://github.com/changinho25/findex-dist/releases/tag/v1.15.2"
 }
