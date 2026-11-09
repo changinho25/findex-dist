@@ -1,9 +1,9 @@
 {
-  "version": "1.15.3",
+  "version": "1.15.4",
   "released": "2026-11-09",
-  "url": "https://github.com/changinho25/findex-dist/releases/download/v1.15.3/Findex-v1.15.3-win64.zip",
-  "size": 85948006,
-  "sha256": "c7a42542d8a90e31f65e60483afa8197e187d9704d9680258feda6cf818ca47a",
-  "notes": "업데이트 적용 후 새 버전이 저절로 뜨지 않던 문제 수정",
-  "notes_url": "https://github.com/changinho25/findex-dist/releases/tag/v1.15.3"
+  "url": "https://github.com/changinho25/findex-dist/releases/download/v1.15.4/Findex-v1.15.4-win64.zip",
+  "size": 87917502,
+  "sha256": "6af23a82b50882fa36bbddff460231796a831aa50c1d4eb1ac217522e6b5f9d3",
+  "notes": "폴더 선택창에서 내 컴퓨터를 열 때 멈추던 문제 수정, 왼쪽 목록을 내 컴퓨터와 즐겨찾기로 변경",
+  "notes_url": "https://github.com/changinho25/findex-dist/releases/tag/v1.15.4"
 }
