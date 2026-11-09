@@ -1,9 +1,9 @@
 {
-  "version": "1.15.2",
-  "released": "2026-11-06",
-  "url": "https://github.com/changinho25/findex-dist/releases/download/v1.15.2/Findex-v1.15.2-win64.zip",
-  "size": 85947640,
-  "sha256": "3cdab155cccc033ac96b1aba322cbd8a823e887b7006b512b6b04b5f5aba01f8",
-  "notes": "관리자 권한 실행 시 OneDrive 파일 누락·휴지통 포함 수정 + '관리자 권한으로 재시작' 무반응 수정",
-  "notes_url": "https://github.com/changinho25/findex-dist/releases/tag/v1.15.2"
+  "version": "1.15.3",
+  "released": "2026-11-09",
+  "url": "https://github.com/changinho25/findex-dist/releases/download/v1.15.3/Findex-v1.15.3-win64.zip",
+  "size": 85948006,
+  "sha256": "c7a42542d8a90e31f65e60483afa8197e187d9704d9680258feda6cf818ca47a",
+  "notes": "업데이트 적용 후 새 버전이 저절로 뜨지 않던 문제 수정",
+  "notes_url": "https://github.com/changinho25/findex-dist/releases/tag/v1.15.3"
 }
