@@ -1,9 +1,9 @@
 {
-  "version": "1.15.4",
-  "released": "2026-11-09",
-  "url": "https://github.com/changinho25/findex-dist/releases/download/v1.15.4/Findex-v1.15.4-win64.zip",
-  "size": 87917502,
-  "sha256": "6af23a82b50882fa36bbddff460231796a831aa50c1d4eb1ac217522e6b5f9d3",
-  "notes": "폴더 선택창에서 내 컴퓨터를 열 때 멈추던 문제 수정, 왼쪽 목록을 내 컴퓨터와 즐겨찾기로 변경",
-  "notes_url": "https://github.com/changinho25/findex-dist/releases/tag/v1.15.4"
+  "version": "1.15.5",
+  "released": "2026-11-16",
+  "url": "https://github.com/changinho25/findex-dist/releases/download/v1.15.5/Findex-v1.15.5-win64.zip",
+  "size": 87920096,
+  "sha256": "1f219e7d7d422ede3b333abc2515459032eef4cca0b1c7c7b699da26fc02e46d",
+  "notes": "런처 첫 사용 때 Enter 실행이 늦고 첫 글자 입력이 멈추던 문제 수정",
+  "notes_url": "https://github.com/changinho25/findex-dist/releases/tag/v1.15.5"
 }
